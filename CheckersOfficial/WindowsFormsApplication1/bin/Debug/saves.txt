@@ -1,0 +1,289 @@
+{
+  "Checkerboard": [
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      }
+    ],
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      }
+    ],
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 1
+      }
+    ],
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      }
+    ],
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      }
+    ],
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      }
+    ],
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      }
+    ],
+    [
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 0
+      },
+      {
+        "KingStatus": false,
+        "checkerColour": 2
+      }
+    ]
+  ],
+  "Text": "Checker Placed.",
+  "messageColour": "LimeGreen",
+  "ScoreA": 11,
+  "ScoreB": 11,
+  "maxNumofCheckers": 12,
+  "appMode": 2,
+  "UpdateRequired": true,
+  "pieceSelected": {
+    "Item1": 6,
+    "Item2": 1
+  },
+  "currentTurn": 2,
+  "players": 1
+}

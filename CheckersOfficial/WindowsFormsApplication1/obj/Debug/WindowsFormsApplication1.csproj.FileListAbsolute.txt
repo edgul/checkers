@@ -1,0 +1,11 @@
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.boardForm.resources
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ed\Documents\Visual Studio 2012\Projects\Checkers\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
