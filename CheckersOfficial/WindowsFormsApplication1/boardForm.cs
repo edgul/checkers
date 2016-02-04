@@ -25,7 +25,7 @@ namespace WindowsFormsApplication1
         Colour playerColour=Colour.white;
 
         // Inspirational Quotes from Opponents: Shaq and Koala
-        String [] koalaQuotes= {"Eucalyptus makes me high.", "420blazeit", "It’s like I’m flying in clouds!", "I’m tripping so hard, you’re good.", "Pass the Doritos.", "Gots munchies!", "No you’re the cutest ever!", "Hands are such funny things.", "Anybody got more of that eucalyptus?", "Pass the green stuff."};
+        String [] koalaQuotes= {"You’re good.", "Pass the Doritos.", "Gots munchies!", "No you’re the cutest ever!", "Hands are such funny things.", "Anybody got more of that eucalyptus?"};
         String [] shaqQuotes = {"Man you’d be good at free throws!", "Git dunk’d!", "Ohh snap!", "Yo dawg, you got this!", "I’m better than Kobe", "I wrote my thesis on the value of humor in leadership because I’m a natural leader who loves to laugh!", "Still better than Kobe.", "Stay in school unless you get drafted!"};
 
         //sound player
